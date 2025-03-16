@@ -140,5 +140,12 @@ For LSTM: The model needs to be trained on a corpus that’s specifically releva
 Data Quality: The quality of the text generated depends heavily on the quality and relevance of the dataset. If using GPT, the model has been pre-trained on diverse data, but fine-tuning with your specific topic dataset can enhance results.
 Computational Resources: GPT-based models (especially larger ones like GPT-3 or GPT-4) require significant computational power. LSTM models are less resource-intensive but may not generate as coherent text as GPT models.
 
+#OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/7198e0c0-d62e-4b7f-acdb-5da22c0411d0)
+
+![Image](https://github.com/user-attachments/assets/5fe95194-0337-420f-a0f1-e14b975753a9)
+
+![Image](https://github.com/user-attachments/assets/2372a298-83de-4f09-a311-6ccfc2c44738)
 
 
